@@ -7,6 +7,3 @@
 ## How to use it:
 - Clone and open the repository in VSCode
 - Run the python code with `python yolo.py` (It will try to detect everything in [bus.jpg](bus.jpg))
-
-## License:
-Here is the [license](LICENSE)
