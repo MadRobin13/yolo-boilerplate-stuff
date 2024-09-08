@@ -10,6 +10,6 @@ model.info()
 results = model.train(data="coco8.yaml", epochs=100, imgsz=640)
 
 # Run inference with the YOLOv8n model on the 'bus.jpg' image
-results = model("./yolo_stuff/bus.jpg")
+results = model("./bus.jpg")
 
 # run this for camera detection: yolo predict model=yolov8n.pt source=0
